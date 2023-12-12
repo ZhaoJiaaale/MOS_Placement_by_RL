@@ -1,0 +1,172 @@
+{
+    "placement": {
+        "M17": {
+            "x": "0",
+            "y": "0",
+            "source": "VSS",
+            "gate": "SI",
+            "drain": "net128",
+            "width": "120"
+        },
+        "M29": {
+            "x": "0",
+            "y": "1",
+            "source": "VDD",
+            "gate": "SI",
+            "drain": "net68",
+            "width": "120"
+        },
+        "SLTn1_finger": {
+            "x": "2",
+            "y": "0",
+            "source": "mq",
+            "gate": "clkbb",
+            "drain": "qf",
+            "width": "133"
+        },
+        "M4": {
+            "x": "2",
+            "y": "1",
+            "source": "net16",
+            "gate": "clkbb",
+            "drain": "qf",
+            "width": "142"
+        },
+        "M64": {
+            "x": "4",
+            "y": "0",
+            "source": "net96",
+            "gate": "clkbb",
+            "drain": "mq_x",
+            "width": "120"
+        },
+        "M4_finger": {
+            "x": "4",
+            "y": "1",
+            "source": "net16",
+            "gate": "clkbb",
+            "drain": "qf",
+            "width": "143"
+        },
+        "M0": {
+            "x": "6",
+            "y": "0",
+            "source": "VSS",
+            "gate": "clkb",
+            "drain": "clkbb",
+            "width": "140"
+        },
+        "SLTp1": {
+            "x": "6",
+            "y": "1",
+            "source": "mq",
+            "gate": "clkb",
+            "drain": "qf",
+            "width": "142"
+        },
+        "M49_finger": {
+            "x": "8",
+            "y": "0",
+            "source": "VSS",
+            "gate": "mq_x",
+            "drain": "mq",
+            "width": "133"
+        },
+        "M22": {
+            "x": "9",
+            "y": "1",
+            "source": "VDD",
+            "gate": "clkb",
+            "drain": "clkbb",
+            "width": "170"
+        },
+        "M11": {
+            "x": "11",
+            "y": "0",
+            "source": "clkb",
+            "gate": "CP",
+            "drain": "VSS",
+            "width": "140"
+        },
+        "M50_finger": {
+            "x": "12",
+            "y": "1",
+            "source": "mq",
+            "gate": "mq_x",
+            "drain": "VDD",
+            "width": "143"
+        },
+        "M2": {
+            "x": "20",
+            "y": "1",
+            "source": "QN",
+            "gate": "qf",
+            "drain": "VDD",
+            "width": "170"
+        },
+        "M9": {
+            "x": "16",
+            "y": "0",
+            "source": "net76",
+            "gate": "clkb",
+            "drain": "qf",
+            "width": "120"
+        },
+        "M79": {
+            "x": "16",
+            "y": "1",
+            "source": "net27",
+            "gate": "clkb",
+            "drain": "mq_x",
+            "width": "120"
+        },
+        "M19_finger": {
+            "x": "24",
+            "y": "1",
+            "source": "net120",
+            "gate": "SE",
+            "drain": "VDD",
+            "width": "120"
+        },
+        "M12": {
+            "x": "32",
+            "y": "0",
+            "source": "net0232",
+            "gate": "D",
+            "drain": "VSS",
+            "width": "175"
+        },
+        "M24": {
+            "x": "32",
+            "y": "1",
+            "source": "net0232",
+            "gate": "D",
+            "drain": "VDD",
+            "width": "120"
+        },
+        "M15": {
+            "x": "28",
+            "y": "0",
+            "source": "net120",
+            "gate": "SE",
+            "drain": "VSS",
+            "width": "175"
+        },
+        "M19": {
+            "x": "28",
+            "y": "1",
+            "source": "net120",
+            "gate": "SE",
+            "drain": "VDD",
+            "width": "120"
+        },
+        "M23": {
+            "x": "46",
+            "y": "1",
+            "source": "net64",
+            "gate": "SE",
+            "drain": "net0232",
+            "width": "120"
+        }
+    }
+}

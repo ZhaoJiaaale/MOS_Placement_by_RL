@@ -1,0 +1,26 @@
+{'layout': [
+    [['0', 'mq', 'clkbb', 'qf', 132, 'SLTn1'], ['1', 'net16', 'clkbb', 'qf', 143, 'M4_finger']],
+    [['0', 'qf', 'clkbb', 'mq', 133, 'SLTn1_finger'], ['1', 'qf', 'clkbb', 'net16', 142, 'M4']], 
+    [['0', 'net76', 'clkb', 'qf', 120, 'M9'], ['1', 'mq', 'clkb', 'qf', 142, 'SLTp1']], 
+    [['0', 'net96', 'clkbb', 'mq_x', 120, 'M64'], ['1', 'net64', 'clkbb', 'mq_x', 200, 'M21']], 
+    [['0', 'Dummy_Source_2', 'Dummy_Gate2', 'Dummy_Drain2', 100, 'Dummy_NMOS_2'], ['1', 'VDD', 'clkb', 'clkbb', 170, 'M22']], 
+    
+    [['0', 'mq_x', 'clkb', 'net132', 175, 'M1'], ['1', 'qf', 'clkb', 'mq', 143, 'SLTp1_finger']], 
+    [['0', 'mq_x', 'clkb', 'net132', 175, 'M1'], ['1', 'qf', 'clkb', 'mq', 143, 'SLTp1_finger']], 
+
+    [['0', 'VSS', 'clkb', 'clkbb', 140, 'M0'], ['1', 'VDD', 'mq_x', 'mq', 142, 'M50']], 
+    [['0', 'QN', 'qf', 'VSS', 140, 'M3_2'], ['1', 'QN', 'qf', 'VDD', 170, 'M2_2']], 
+    [['0', 'VSS', 'qf', 'QN', 140, 'M3'], ['1', 'VDD', 'qf', 'QN', 170, 'M2']], 
+    [['0', 'mq', 'mq_x', 'VSS', 132, 'M49'], ['1', 'qf_x', 'qf', 'VDD', 170, 'M77']], 
+    [['0', 'VSS', 'SI', 'net128', 120, 'M17'], ['1', 'VDD', 'SI', 'net68', 120, 'M29']], 
+    [['0', 'clkb', 'CP', 'VSS', 140, 'M11'], ['1', 'clkb', 'CP', 'VDD', 170, 'M20']], 
+    [['0', 'VSS', 'qf_x', 'net76', 120, 'M10'], ['1', 'VDD', 'qf_x', 'net16', 120, 'M5']], 
+    [['0', 'Dummy_Source_1', 'Dummy_Gate1', 'Dummy_Drain1', 100, 'Dummy_NMOS_1'], ['1', 'mq', 'mq_x', 'VDD', 143, 'M50_finger']], 
+    [['0', 'net0232', 'net120', 'net132', 175, 'M16'], ['1', 'net68', 'net120', 'net64', 120, 'M28']], 
+    [['0', 'VSS', 'qf', 'qf_x', 140, 'M76'], ['1', 'VDD', 'SE', 'net120', 120, 'M19']], 
+    [['0', 'net0232', 'D', 'VSS', 175, 'M12'], ['1', 'net0232', 'D', 'VDD', 120, 'M24']], 
+    [['0', 'net128', 'SE', 'net132', 120, 'M18'], ['1', 'net0232', 'SE', 'net64', 120, 'M23']], 
+    [['0', 'Dummy_Source_3', 'Dummy_Gate3', 'Dummy_Drain3', 100, 'Dummy_NMOS_3'], ['1', 'net64', 'SE', 'net0232', 120, 'M23_finger']], 
+    [['0', 'VSS', 'mq_x', 'mq', 133, 'M49_finger'], ['1', 'VDD', 'D', 'net0232', 120, 'M24_finger']], 
+    [['0', 'net120', 'SE', 'VSS', 175, 'M15'], ['1', 'net120', 'SE', 'VDD', 120, 'M19_finger']], 
+    [['0', 'Dummy_Source_0', 'Dummy_Gate0', 'Dummy_Drain0', 100, 'Dummy_NMOS_0'], ['1', 'VDD', 'mq', 'net27', 120, 'M60']]]}
